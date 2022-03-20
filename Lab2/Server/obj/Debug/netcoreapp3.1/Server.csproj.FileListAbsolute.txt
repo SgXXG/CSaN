@@ -1,0 +1,17 @@
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba2 - Remote paint\Server\bin\Debug\netcoreapp3.1\Server.exe
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba2 - Remote paint\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba2 - Remote paint\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba2 - Remote paint\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba2 - Remote paint\Server\bin\Debug\netcoreapp3.1\Server.dll
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba2 - Remote paint\Server\bin\Debug\netcoreapp3.1\Server.pdb
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba2 - Remote paint\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba2 - Remote paint\Server\obj\Debug\netcoreapp3.1\Server.frmMain.resources
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba2 - Remote paint\Server\obj\Debug\netcoreapp3.1\Server.frmStart.resources
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba2 - Remote paint\Server\obj\Debug\netcoreapp3.1\Server.csproj.GenerateResource.cache
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba2 - Remote paint\Server\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba2 - Remote paint\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba2 - Remote paint\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba2 - Remote paint\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba2 - Remote paint\Server\obj\Debug\netcoreapp3.1\Server.dll
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba2 - Remote paint\Server\obj\Debug\netcoreapp3.1\Server.pdb
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba2 - Remote paint\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
