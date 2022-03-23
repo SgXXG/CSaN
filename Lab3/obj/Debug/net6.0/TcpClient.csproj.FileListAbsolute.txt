@@ -1,0 +1,15 @@
+D:\Projects\TcpClient\bin\Debug\net6.0\TcpClient.exe
+D:\Projects\TcpClient\bin\Debug\net6.0\TcpClient.deps.json
+D:\Projects\TcpClient\bin\Debug\net6.0\TcpClient.runtimeconfig.json
+D:\Projects\TcpClient\bin\Debug\net6.0\TcpClient.dll
+D:\Projects\TcpClient\bin\Debug\net6.0\TcpClient.pdb
+D:\Projects\TcpClient\obj\Debug\net6.0\TcpClient.csproj.AssemblyReference.cache
+D:\Projects\TcpClient\obj\Debug\net6.0\TcpClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TcpClient\obj\Debug\net6.0\TcpClient.AssemblyInfoInputs.cache
+D:\Projects\TcpClient\obj\Debug\net6.0\TcpClient.AssemblyInfo.cs
+D:\Projects\TcpClient\obj\Debug\net6.0\TcpClient.csproj.CoreCompileInputs.cache
+D:\Projects\TcpClient\obj\Debug\net6.0\TcpClient.dll
+D:\Projects\TcpClient\obj\Debug\net6.0\refint\TcpClient.dll
+D:\Projects\TcpClient\obj\Debug\net6.0\TcpClient.pdb
+D:\Projects\TcpClient\obj\Debug\net6.0\TcpClient.genruntimeconfig.cache
+D:\Projects\TcpClient\obj\Debug\net6.0\ref\TcpClient.dll
