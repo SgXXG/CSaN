@@ -11,8 +11,26 @@ namespace TcpCLient
         static void Main(string[] args)
         {
             Console.Write("Input the name of the server: ");
-            string serverName = Console.ReadLine();
-            IPHostEntry hostEntry = Dns.GetHostEntry(serverName);
+            string serverName;
+            IPHostEntry hostEntry;
+            try {
+                serverName = Console.ReadLine();
+            }
+            catch (Exception e)
+            {
+                serverName = null;
+                throw new Exception("Mistake");
+            } 
+
+            if (serverName == null)
+            {
+                throw new Exception("Mistake");
+            }
+            else
+            {
+                hostEntry = Dns.GetHostEntry(serverName);
+            }
+                
             IPAddress ipAddress = hostEntry.AddressList[0];
             Console.WriteLine("Address: " + ipAddress.ToString());
 
