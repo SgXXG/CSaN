@@ -1,0 +1,16 @@
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba4 - POP3 client\Pop3Client\bin\Debug\netcoreapp3.1\Pop3Client.exe
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba4 - POP3 client\Pop3Client\bin\Debug\netcoreapp3.1\Pop3Client.deps.json
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba4 - POP3 client\Pop3Client\bin\Debug\netcoreapp3.1\Pop3Client.runtimeconfig.json
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba4 - POP3 client\Pop3Client\bin\Debug\netcoreapp3.1\Pop3Client.runtimeconfig.dev.json
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba4 - POP3 client\Pop3Client\bin\Debug\netcoreapp3.1\Pop3Client.dll
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba4 - POP3 client\Pop3Client\bin\Debug\netcoreapp3.1\Pop3Client.pdb
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba4 - POP3 client\Pop3Client\obj\Debug\netcoreapp3.1\Pop3Client.csproj.AssemblyReference.cache
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba4 - POP3 client\Pop3Client\obj\Debug\netcoreapp3.1\Pop3Client.frmMain.resources
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba4 - POP3 client\Pop3Client\obj\Debug\netcoreapp3.1\Pop3Client.csproj.GenerateResource.cache
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba4 - POP3 client\Pop3Client\obj\Debug\netcoreapp3.1\Pop3Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba4 - POP3 client\Pop3Client\obj\Debug\netcoreapp3.1\Pop3Client.AssemblyInfoInputs.cache
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba4 - POP3 client\Pop3Client\obj\Debug\netcoreapp3.1\Pop3Client.AssemblyInfo.cs
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba4 - POP3 client\Pop3Client\obj\Debug\netcoreapp3.1\Pop3Client.csproj.CoreCompileInputs.cache
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba4 - POP3 client\Pop3Client\obj\Debug\netcoreapp3.1\Pop3Client.dll
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba4 - POP3 client\Pop3Client\obj\Debug\netcoreapp3.1\Pop3Client.pdb
+D:\!Studing\2 Course\4 Sem\КСИС\CSaN_Computer_systems_and_networks-main\CSaN_Computer_systems_and_networks-main\Laba4 - POP3 client\Pop3Client\obj\Debug\netcoreapp3.1\Pop3Client.genruntimeconfig.cache
