@@ -1,0 +1,8 @@
+D:\!Studing\2 Course\4 Sem\КСИС\Labs\Ftp-server-master\Ftp-server-master\ftp-server\bin\Debug\ftp-server.exe.config
+D:\!Studing\2 Course\4 Sem\КСИС\Labs\Ftp-server-master\Ftp-server-master\ftp-server\bin\Debug\ftp-server.exe
+D:\!Studing\2 Course\4 Sem\КСИС\Labs\Ftp-server-master\Ftp-server-master\ftp-server\bin\Debug\ftp-server.pdb
+D:\!Studing\2 Course\4 Sem\КСИС\Labs\Ftp-server-master\Ftp-server-master\ftp-server\obj\Debug\ftp-server.csproj.AssemblyReference.cache
+D:\!Studing\2 Course\4 Sem\КСИС\Labs\Ftp-server-master\Ftp-server-master\ftp-server\obj\Debug\ftp-server.csproj.SuggestedBindingRedirects.cache
+D:\!Studing\2 Course\4 Sem\КСИС\Labs\Ftp-server-master\Ftp-server-master\ftp-server\obj\Debug\ftp-server.csproj.CoreCompileInputs.cache
+D:\!Studing\2 Course\4 Sem\КСИС\Labs\Ftp-server-master\Ftp-server-master\ftp-server\obj\Debug\ftp-server.exe
+D:\!Studing\2 Course\4 Sem\КСИС\Labs\Ftp-server-master\Ftp-server-master\ftp-server\obj\Debug\ftp-server.pdb
